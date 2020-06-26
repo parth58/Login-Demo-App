@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "314891348274",
+    "firebase_url": "https://simplelogin-ae28c.firebaseio.com",
+    "project_id": "simplelogin-ae28c",
+    "storage_bucket": "simplelogin-ae28c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314891348274:android:3ffdc14a71c73723",
+        "android_client_info": {
+          "package_name": "com.parthpatel.simplelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314891348274-ceuan0u7oamlism8a470l3l0d0qnqm2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsXQXiK6p32kSWJ56S8AVxKLokiExHU9I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
